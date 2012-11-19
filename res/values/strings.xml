@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">My Second Application</string>
+    <string name="hello_world">Hey Eric, what is shaking.</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Erics Activity</string>
+
+</resources>
